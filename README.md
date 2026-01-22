@@ -1,4 +1,4 @@
-Hi 👋 My name is shravani bhalerao
+Hi 👋 My name is Shravani
 ==================================
 
 Web Developer and Designer
